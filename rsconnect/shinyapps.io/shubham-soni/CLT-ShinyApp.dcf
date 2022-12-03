@@ -1,0 +1,11 @@
+name: CLT-ShinyApp
+title: shinyapplication
+username:
+account: shubham-soni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7801688
+bundleId: 6585162
+url: https://shubham-soni.shinyapps.io/CLT-ShinyApp/
+when: 1670047365.57448
+lastSyncTime: 1670047365.5745
